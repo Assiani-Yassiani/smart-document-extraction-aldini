@@ -56,30 +56,6 @@ Génération automatique d'un fichier JSON structuré contenant toutes les infor
 - Taille maximum: 16 MB par fichier
 - Architecture: API REST scalable
 
-## ✨ Avantages
 
-- **Automatisation complète**: Zéro saisie manuelle
-- **Gain de temps**: 90% de réduction du temps de traitement
-- **Réduction d'erreurs**: Élimination des erreurs de frappe
-- **Scalabilité**: Traitement en masse possible
-- **Intégration facile**: API REST standard
-- **Données structurées**: Format JSON exploitable immédiatement
-
-## 🔒 Sécurité
-
-- Validation stricte des fichiers uploadés
-- Suppression automatique des fichiers temporaires
-- Gestion sécurisée des données sensibles
-- API avec contrôle d'accès
-
-## 📈 Cas d'Usage
-
-- Automatisation du traitement des KBIS
-- Digitalisation des factures
-- Extraction de données pour CRM/ERP
-- Archivage numérique intelligent
-- Audit et conformité
-
----
 
 *Projet développé pour Aldini France - Solution d'extraction intelligente de documents*
