@@ -48,13 +48,6 @@ Génération automatique d'un fichier JSON structuré contenant toutes les infor
 - **Traitement de Données**: Python, Regex
 - **Format de Sortie**: JSON structuré
 
-## 📊 Performances
-
-- Temps de traitement: 3-5 secondes par document
-- Précision d'extraction: >95% sur documents standards
-- Formats supportés: PDF (natif et scanné)
-- Taille maximum: 16 MB par fichier
-- Architecture: API REST scalable
 
 
 
